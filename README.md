@@ -5,7 +5,7 @@
 
 
 
-<p align="center">Hello! I'm a 16-year-old programmer and editor from the Czech Republic. I'm passionate about Windows development, particularly programming and editing. I'm currently trying to learn Python, HTML, JS and CSS</p>
+<p align="center">Hello! I'm programmer and editor from the Czech Republic. I'm passionate about Windows development, particularly programming and editing. I'm currently trying to learn Python, HTML, JS and CSS</p>
 <br>
 
 
