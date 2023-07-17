@@ -18,7 +18,7 @@
 <br>
 - 📫 Contact: Email:<a href="mailto:vojtikczhraje@gmail.com"> vojtikczhraje@gmail.com</a> & Discord:<a href="https://discord.com/users/390568043513905153"> vojtikczhraje</a>
 <br>
-- 📫 Games: I enjoy playing Minecraft. In game nick:<a href="https://namemc.com/profile/vojtikczhraje"> vojtikczhraje</a>
+- 🕹️ Games: I enjoy playing Minecraft. In game nick:<a href="https://namemc.com/profile/vojtikczhraje"> vojtikczhraje</a>
 </p>
 <br>
 
