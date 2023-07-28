@@ -12,7 +12,7 @@
 
 <h3 align="center">What I currently Do </h3>
 <p align=center>
-- :hammer: I’m currently working on Vitality
+- :hammer: I’m currently working on idk
 <br>
 - 🤔 I’m learning: Python, HTML, JS, CSS
 <br>
