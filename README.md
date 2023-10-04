@@ -1,8 +1,7 @@
 ![Header image](https://github.com/vojtikczhraje/vojtikczhraje/blob/main/Github-Header.jpg)
 
 
-
-##### A Developer by day ☼ and a Computer Speed Enthusiast by night ☾
+A Developer by day ☼ and a Computer Speed Enthusiast by night ☾
 
 
 
@@ -20,6 +19,6 @@
   </a>
 </p>
      
-##### - Working on Vitality
-##### - Learning Web Development ```[HTML, CSS]```
-##### - Batch
+- Working on Vitality
+- Learnin ```[Python]```
+- Batch
