@@ -20,5 +20,5 @@ A Developer by day ☼ and a Computer Speed Enthusiast by night ☾
 </p>
      
 - Working on Vitality
-- Learnin ```[Python]```
+- Learning ```[Python]```
 - Batch
