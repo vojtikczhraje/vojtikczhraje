@@ -1,4 +1,4 @@
-![Header image](https://github.com/vojtikczhraje/vojtikczhraje/blob/main/Github-Header.jpg)
+![Header image](img/header.jpg)
 
 
 A Developer by day ☼ and a Computer Speed Enthusiast by night ☾
