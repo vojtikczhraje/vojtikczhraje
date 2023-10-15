@@ -1,4 +1,4 @@
-![Header image](img/header.jpg)
+![Header image](img/header.png)
 
 
 A Developer by day ☼ and a Computer Speed Enthusiast by night ☾
