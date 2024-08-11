@@ -1,4 +1,4 @@
-![Header image](img/header.png)
+![Header image](img/kojiro.png)
 
 <p align="center">
   <a href="https://discord.com/users/1056305220914786406" target="_blank">
